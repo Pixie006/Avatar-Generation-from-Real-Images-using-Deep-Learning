@@ -28,6 +28,8 @@ Output: The final output is a personalized avatar image that can be used as a pr
 
 ## Dependencies
 
+## Future Scope
+
 ## Acknowledgments
 
 ## Output
