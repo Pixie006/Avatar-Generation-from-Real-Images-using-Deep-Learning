@@ -27,13 +27,32 @@ Output: The final output is a personalized avatar image that can be used as a pr
 * **Save and Share**: Save the generated avatars and share them on your social media profiles, use them as profile pictures, or get creative with how you use them!
 
 ## Dependencies
+This project relies on several key libraries and tools. Please ensure you have the following dependencies installed before running the code:
+
+* Python (>= 3.6)
+* TensorFlow (>= 2.0)
+* OpenCV (>= 4.0)
+* NumPy (>= 1.16)
+* Matplotlib (>= 3.0)
 
 ## Future Scope
 
+* Enhanced Avatar Personalization: In the future, we plan to incorporate advanced neural network architectures to improve the personalization of avatars. This includes more accurate facial feature recognition and detailed customization options.
+
+* Real-time Avatar Generation: We aim to develop a real-time avatar generation system that can transform a user's image into a personalized avatar in seconds, suitable for use in various applications and platforms.
+
+* Integration with AR/VR: Exploring integration with augmented reality (AR) and virtual reality (VR) applications to create immersive experiences using the generated avatars.
+
+* Privacy and Security: We will focus on enhancing the privacy and security aspects of avatar generation, ensuring user data protection and preventing misuse.
+
 ## Acknowledgments
+
+I would like to express our gratitude to the open-source community for providing valuable resources and pre-trained models that have been instrumental in the development of this project. Additionally, we acknowledge the contributions for their insights and feedback during the development process.
+
+This project stands on the shoulders of giants in the fields of deep learning, computer vision, and image processing, and I appreciate their pioneering work that has paved the way for advancements in avatar generation technology.
 
 ## Output
 
-![result](https://github.com/Pixie006/Avatar-Generation-from-Real-Images-using-Deep-Learning/assets/119098848/489f8dd2-e8e3-4aa6-9dfe-375072c95f33)
+![sample output](https://github.com/Pixie006/Avatar-Generation-from-Real-Images-using-Deep-Learning/assets/119098848/e8e13e3b-b999-49e7-8476-677e60c4bee1)
 
 ## LICENSE
