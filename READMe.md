@@ -56,3 +56,4 @@ This project stands on the shoulders of giants in the fields of deep learning, c
 ![sample output](https://github.com/Pixie006/Avatar-Generation-from-Real-Images-using-Deep-Learning/assets/119098848/e8e13e3b-b999-49e7-8476-677e60c4bee1)
 
 ## LICENSE
+[License](https://github.com/Pixie006/Avatar-Generation-from-Real-Images-using-Deep-Learning/blob/main/LICENSE.txt).
