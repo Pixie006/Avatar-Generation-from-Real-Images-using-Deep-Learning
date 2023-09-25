@@ -4,7 +4,7 @@ This project aims to create personalized avatar images from real photographs usi
 
 ## How it Works
 
-* **Data Collection**: We start by collecting a dataset of real photographs of individuals. This dataset should be diverse, containing images of people with different facial expressions, poses, and lighting conditions.
+* **Data Collection**: I started by collecting a dataset of real photographs of individuals. This dataset should be diverse, containing images of people with different facial expressions, poses, and lighting conditions.
 
 * **Data Preprocessing**: The collected images are preprocessed to ensure they are in a suitable format for training our deep learning model. This may involve resizing, cropping, and normalizing the images.
 
