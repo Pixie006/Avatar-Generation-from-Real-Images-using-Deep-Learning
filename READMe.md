@@ -34,6 +34,6 @@ Output: The final output is a personalized avatar image that can be used as a pr
 
 ## Output
 
-![Collage Maker-25-Sep-2023-01-48-PM-2421 (1)](https://github.com/Pixie006/Avatar-Generation-from-Real-Images-using-Deep-Learning/assets/119098848/5e5f3efd-44d2-4ec0-8813-399eba49dbd3)
+![result](https://github.com/Pixie006/Avatar-Generation-from-Real-Images-using-Deep-Learning/assets/119098848/489f8dd2-e8e3-4aa6-9dfe-375072c95f33)
 
 ## LICENSE
